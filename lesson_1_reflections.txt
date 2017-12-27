@@ -1,0 +1,94 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+  Once you can compare the differences between two files that have more 
+  than 30 lines of code, narrowed to a few concentrated changes back to back, 
+  this process becomes a lot more easy.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+  It helps between versions or when working in teams, because somethings that
+  work with a previous version of a program maybe won't work with another. 
+  And that makes things simplier when using multiple versions of a code on 
+  a project. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros:
+	- You can play with your code and try what works and what doesn't, 
+	  without worrying that something will get overwited
+
+    Cons:
+	- If a program is stuck, and you didn't save, it can be frustrating.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    No idea
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log can be used to view the log of the changes for a file
+
+    git diff is used to visualize changes between multiple versions of a file
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It would help a lot once I get used to use it, but as far as I know, this
+    relies solely on the user
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Mainly for the Machine Learning course, and will use it for my bachelor's 
+    thesis once I get the hang of it.
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+    It could save me some time by not worrying about changes I make on a file
+    and also could help getting some features from older versions.
+
+What do you think are the pros and cons of manually choosing when to create a commit, 
+like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+    Pros:
+	-You'll create commits for important changes
+	-Each commit will have a significance to the broader project
+	-You'll save the hassle of multiple saves that could bother more than
+	 they can help
+
+    Cons:
+	-User error, you might forget or let pile up many important changes into
+	 one commit
+	-In the case of a blackout (or simmilar stuff) while working on an important
+	 part of the code, valuable information can be lost.
+
+Why do you think some version control systems, like Git, allow saving multiple files 
+in one commit, while others, like Google Docs, treat each file separately?
+
+    It all bases on what kind of user is oriented each one of them. 
+
+    Docs is oriented for everyone and for non-specific users, which means that someone 
+    can use it to write a letter, or a report, or maybe to keep a journal. Generally, 
+    these types of files don't rely on other files to work or to make things work.
+
+    Instead, because Git is used mainly by programmers, it is much more common to see
+    files that are connected or that together make something bigger. It could be considered 
+    bad programming not to segment code and take advantage of the feature a programming 
+    language can offer (like object oriented programming)
+
+How might using version control make you more confident to make changes that could 
+break something?
+
+    It would help by just focusing on the code and leaving the worries behind of 
+    experimenting with new code, new functions, etc. Once you get used to it.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Mainly for my thesis, to keep track of everything I make. And also for my Machine
+    Learning course on Udacity. But I think once I get the hang of it, I will be using 
+    it for all of my projects from now on.
